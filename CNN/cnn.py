@@ -77,4 +77,4 @@ history = model.fit(
     epochs = 10,
     validation_data = val_set,
     validation_steps = 15
-)
+) 
